@@ -1,0 +1,8 @@
+../Core/Src/main.c:101:5:main	24	static
+../Core/Src/main.c:380:6:SystemClock_Config	88	static
+../Core/Src/main.c:434:6:microDelay	16	static
+../Core/Src/main.c:440:6:stepMotorToOrigin	8	static
+../Core/Src/main.c:465:6:servoMotorToOrigin	8	static
+../Core/Src/main.c:482:6:automation	16	static
+../Core/Src/main.c:547:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:629:6:Error_Handler	4	static,ignoring_inline_asm
